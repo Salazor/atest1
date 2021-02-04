@@ -7,3 +7,16 @@ Exception
 INFO     [02-04 14:56:36] #####Конец#####
 WARNING  [02-04 14:56:38] Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000224DD345A60>: Failed to establish a new connection: [WinError 10061] Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение')': /session/64b2d596b18a15012826a478ebb940ca
 WARNING  [02-04 14:56:40] Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000224DD3B3A30>: Failed to establish a new connection: [WinError 10061] Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение')': /session/64b2d596b18a15012826a478ebb940ca
+INFO     [02-04 14:58:14] #####Начало#####
+INFO     [02-04 14:58:20] Форма поиска отображается
+INFO     [02-04 14:58:25] Форма ввода заполняется
+INFO     [02-04 14:58:27] Кнопка поиска работает
+INFO     [02-04 14:58:27] Результаты поиска отображаются
+INFO     [02-04 14:58:27] Переход по первой ссылке
+INFO     [02-04 14:58:38] Переход к основной странице по кнопке "Google"
+INFO     [02-04 14:58:44] Переход по ссылке "Реклама"
+INFO     [02-04 14:58:44] Информация по рекламе отображается
+INFO     [02-04 14:58:49] Возвращение на главную страницу
+INFO     [02-04 14:58:55] Переход по ссылке "Для бизнеса"
+INFO     [02-04 14:58:55] Информация для бизнеса отображается
+INFO     [02-04 14:59:01] Возвращение на главную страницу
