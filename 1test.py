@@ -43,7 +43,6 @@ while True:
 
         WebDriverWait(browser, 10).until(
             EC.visibility_of_element_located((By.XPATH, '//div[@id="searchform"]')))
-        raise Exception()
         logging.info("Форма поиска отображается")
         time.sleep(t)   # Таймер для ручной отладки
 
